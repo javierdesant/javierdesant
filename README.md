@@ -1,42 +1,59 @@
-<!-- TODO: Añadir Header-->
-<h1 align="center">Hola 👋, soy Javier de Santiago</h1>
+## Welcome!
 
-<h3 align="center">Estudiante de TSI | TypeScript developer</h3>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=javierdesant&label=Profile%20views&color=0e75b6&style=flat" alt="scar1109" /> </p>
+![Profile views](https://komarev.com/ghpvc/?username=javierdesant&color=blue) - ![Followers](https://img.shields.io/github/followers/javierdesant?label=Followers&style=social) - ![Public repos](https://img.shields.io/badge/Repos-21-blue)
 
-<table align="center">
-<tr border="none">
-<td width="50%" align="left">
-  
-- 🌱 Desarrollando mis habilidades en **creación de aplicaciones web en React**.
-  
-- 🧑‍🎓 Estudio en la **Universidad Politécnica de Madrid**.
+Welcome to my GitHub profile. I'm **Javier de Santiago Soto** (GitHub: @javierdesant), a Computer Science student at **Universidad Politécnica de Madrid (UPM)**, currently studying abroad at **Frankfurt University of Applied Sciences**.
 
-- 💬 Pregúntame sobre **Hooks en React**.
+My main interests lie in **backend development, pattern-oriented programming in Java, and software architecture**. While backend engineering is my primary focus, I also work with frontend technologies when needed to bring projects to life.
 
-- 📫 Contáctame: **javier.desantiago@alumnos.upm.com**
+Every now and then, I build weird stuff too — just to stay curious and keep practicing the fine and beautiful art of not always knowing what I'm doing.
 
-</td>
-<td width="50%" align="center">
+## About Me - But it's a POJO
+```java
+public class AboutMe {
+    private String name = "Javier de Santiago Soto";
+    private String[] favNovels;
+    private int coffeeLove = Integer.MAX_VALUE;
 
-  <img align="center" alt="Coding" width="450" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
+    public AboutMe(String dndClass) {
+        if (!"Mage".equals(dndClass)) {
+            throw new IllegalArgumentException("Only a Mage can instantiate AboutMe!");
+        }
+        this.favNovels = new String[] {
+            "Death's End",
+            "The Name of the Wind",
+            "At the Mountains of Madness"
+        };
+    }
 
-  
-  </td>
-</tr>
-</table>
+    public String getPhilosophy() {
+        return "aut non rem temptes aut perfice"; // Either don't attempt, or complete it
+    }
 
-<!-- TODO:
----
+    // Some AWESOME methods and getters here...
 
-<h3 align="center">My Statistics:</h3>
+}
+```
 
----
+## My Stack
 
-<h3 align="center">Connect with me:</h3>
+[![My Skills](https://skillicons.dev/icons?i=java,spring,git,github,nodejs,html,css,maven,gradle,c,js,ts,react,latex,postgres,docker&perline=8)](https://skillicons.dev)
 
+## Connect with Me
 
----
+**LinkedIn:** [in/javierdesant](https://www.linkedin.com/in/javierdesant)
 
-<h3 align="center">Languages and Tools:</h3>
--->
+**Website:** [javierdesant.com](https://www.javierdesant.com)
+
+**Email**: [contact@javierdesant.com](mailto:contact@javierdesant.com)
+
+## Support my work
+
+A coffee is always much appreciated!!
+
+<img src="https://cdn.prod.website-files.com/5c14e387dab576fe667689cf/670f5a02fcf48af59c591185_support_me_on_kofi_dark.png" alt="Support me on Ko-fi" width="300">
+
+<!--
+Strange is the night where black stars rise,
+And a lone coder sleeps while the system cries.
+--!>
