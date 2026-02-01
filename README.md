@@ -30,8 +30,7 @@ public class AboutMe {
         return "aut non rem temptes aut perfice"; // Either don't attempt, or complete it
     }
 
-    // Some AWESOME methods and getters here...
-
+    // Some AWESOME passions here... (getters too)
 }
 ```
 
@@ -49,9 +48,13 @@ public class AboutMe {
 
 ## Support my work
 
-A coffee is always much appreciated!!
+A cup of coffee is always much appreciated!
 
-<img src="https://cdn.prod.website-files.com/5c14e387dab576fe667689cf/670f5a02fcf48af59c591185_support_me_on_kofi_dark.png" alt="Support me on Ko-fi" width="300">
+<a href="https://ko-fi.com/javierdesant" target="blank">
+  <img src="https://cdn.prod.website-files.com/5c14e387dab576fe667689cf/670f5a02fcf48af59c591185_support_me_on_kofi_dark.png" 
+       alt="Support me on Ko-fi" 
+       width="300">
+</a>
 
 <!--
 Strange is the night where black stars rise,
