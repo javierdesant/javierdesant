@@ -1,6 +1,6 @@
 ## Welcome!
 
-![Profile views](https://komarev.com/ghpvc/?username=javierdesant&color=blue) - ![Followers](https://img.shields.io/github/followers/javierdesant?label=Followers&style=social) - ![Public repos](https://img.shields.io/badge/Repos-21-blue)
+![Profile views](https://komarev.com/ghpvc/?username=javierdesant&color=blue)  ![Followers](https://img.shields.io/github/followers/javierdesant?label=Followers&style=social)  ![Public repos](https://img.shields.io/badge/Repos-21-blue)
 
 Welcome to my GitHub profile. I'm **Javier de Santiago Soto** (GitHub: @javierdesant), a Computer Science student at **Universidad Politécnica de Madrid (UPM)**, currently studying abroad at **Frankfurt University of Applied Sciences**.
 
