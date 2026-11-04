@@ -36,7 +36,7 @@ public class AboutMe {
 
 ## My Stack
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,git,github,nodejs,html,css,maven,gradle,c,js,ts,react,latex,postgres,docker&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=kotlin,java,spring,git,nodejs,html,css,maven,gradle,c,js,ts,react,latex,postgres,docker&perline=8)](https://skillicons.dev)
 
 ## Connect with Me
 
